@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Chatango.Net.WebSocket.Contracts.Attributes
 {
-	[AttributeUsage(AttributeTargets.Class)]
+	[AttributeUsage(AttributeTargets.Property)]
 	public class ContractPropertyAttribute : Attribute
 	{
 		public ContractPropertyAttribute(uint position, bool constant = false)

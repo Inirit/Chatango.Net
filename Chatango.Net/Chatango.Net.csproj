@@ -5,12 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="WebSocket\Contracts\Incoming\" />
-    <Folder Include="WebSocket\Contracts\Interfaces\" />
-    <Folder Include="WebSocket\Contracts\Outgoing\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="JetBrains.Annotations" Version="11.0.0" />
   </ItemGroup>
 
