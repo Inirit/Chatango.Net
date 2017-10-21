@@ -4,6 +4,8 @@ A .Net library to interact with the Chatango chat service.
 
 **This project is not complete.** It's largely driven by my own use for a chatbot as well as a learning opportunity.
 
+Please open an issue for any questions or concerns.
+
 ## FAQ
 
 Q: Why?  
