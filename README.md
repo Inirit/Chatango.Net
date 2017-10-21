@@ -6,11 +6,11 @@ A .Net library to interact with the Chatango chat service.
 
 ## FAQ
 
-Q: Why?
+Q: Why?  
 A: I wanted to make a chatbot
 
-Q: What about <other framework here>?
+Q: What about (insert other framework here)?  
 A: I wanted one for .Net
   
-Q: When will this reach a "released" state?
+Q: When will this reach a "released" state?  
 A: I don't know
