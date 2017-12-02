@@ -1,6 +1,6 @@
 # Chatango.Net
 
-[![Build Status](https://travis-ci.org/Inirit/Chatango.Net.svg)](https://travis-ci.org/Inirit/Chatango.Net)
+[![Build Status](https://travis-ci.org/Inirit/Chatango.Net.svg)](https://travis-ci.org/Inirit/Chatango.Net) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/73a7c444fd0846019c668cbe9c19a294)](https://www.codacy.com/app/Inirit/Chatango.Net?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Inirit/Chatango.Net&amp;utm_campaign=Badge_Grade)
 
 A .Net library to interact with the Chatango chat service.
 
